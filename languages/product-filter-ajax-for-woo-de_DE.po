@@ -1,0 +1,231 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Product Filter AJAX for Woo\n"
+"POT-Creation-Date: 2020-05-29 16:00+0200\n"
+"PO-Revision-Date: 2020-05-29 16:09+0200\n"
+"Last-Translator: \n"
+"Language-Team: mlfactory\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: core/inc/wapf_settings.php:53
+msgid "Settings are successfully saved"
+msgstr "Einstellungen werden erfolgreich gespeichert"
+
+#: core/inc/wapf_settings.php:65
+msgid "WooCommerce Product Filter Options"
+msgstr "WooCommerce Produktfilter Optionen"
+
+#: core/inc/wapf_settings.php:68
+msgid "Here you can setup your filters."
+msgstr "Hier können Sie Ihre Filter einrichten."
+
+#: core/inc/wapf_settings.php:69
+msgid "The free version is limited to 3 filters."
+msgstr "Die kostenlose Version ist auf 3 Filter beschränkt."
+
+#: core/inc/wapf_settings.php:86
+msgid "Display Options"
+msgstr "Anzeige Optionen"
+
+#: core/inc/wapf_settings.php:89
+msgid "Location"
+msgstr "Anzeigeort"
+
+#: core/inc/wapf_settings.php:92
+msgid "Shop Page [before products]"
+msgstr "Shop-Seite [vor Produkten]"
+
+#: core/inc/wapf_settings.php:96
+msgid "Layout"
+msgstr "Layout"
+
+#: core/inc/wapf_settings.php:98
+msgid "Horizontal"
+msgstr "Horizontal"
+
+#: core/inc/wapf_settings.php:99
+msgid "Vertical"
+msgstr "Vertikal"
+
+#: core/inc/wapf_settings.php:103
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: core/inc/wapf_settings.php:106
+msgid ""
+"Filter works only on WooCommerce Shop/Categorie Page + in Sidebar on Shop/"
+"Categorie Page."
+msgstr ""
+"Der Filter funktioniert nur auf der WooCommerce Shop/Kategorie-Seite + in "
+"der Sidebar auf der Shop/Kategorie-Seite."
+
+#: core/inc/wapf_settings.php:115 woo-ajax-product-finder.php:920
+msgid "Slider Filter (Price)"
+msgstr "Slider Filter (Price)"
+
+#: core/inc/wapf_settings.php:116 woo-ajax-product-finder.php:921
+msgid "Checkbox Filter (Custom Attributes)"
+msgstr "Checkbox Filter (Benutzerdefinierte Attribute)"
+
+#: core/inc/wapf_settings.php:117 woo-ajax-product-finder.php:922
+msgid "Select Filter (Categories)"
+msgstr "Select Filter (Kategorien)"
+
+#: core/inc/wapf_settings.php:147 woo-ajax-product-finder.php:914
+msgid "Filter"
+msgstr "Filter"
+
+#: core/inc/wapf_settings.php:153 woo-ajax-product-finder.php:917
+msgid "Filter Type"
+msgstr "Filter Typ"
+
+#: core/inc/wapf_settings.php:196 woo-ajax-product-finder.php:926
+msgid "Filter Attribut"
+msgstr "Filter Attribut"
+
+#: core/inc/wapf_settings.php:200 woo-ajax-product-finder.php:919
+#: woo-ajax-product-finder.php:928 woo-ajax-product-finder.php:965
+msgid "Please select..."
+msgstr "Bitte wählen Sie..."
+
+#: core/inc/wapf_settings.php:204 woo-ajax-product-finder.php:941
+#: woo-ajax-product-finder.php:1102
+msgid "Brand"
+msgstr "Marke"
+
+#: core/inc/wapf_settings.php:264 woo-ajax-product-finder.php:618
+#: woo-ajax-product-finder.php:987
+msgid "All Categories"
+msgstr "Alle Kategorien"
+
+#: core/inc/wapf_settings.php:379 woo-ajax-product-finder.php:1052
+msgid "Is Color"
+msgstr "Farbe"
+
+#: core/inc/wapf_settings.php:402
+msgid "Add Filter"
+msgstr "Filter hinzufügen"
+
+#: core/inc/wapf_settings.php:406
+msgid "Save Settings"
+msgstr "Einstellungen speichern"
+
+#: core/inc/wapf_settings.php:419
+msgid "Infos"
+msgstr "Infos"
+
+#: core/inc/wapf_settings.php:423
+msgid "Support"
+msgstr "Support"
+
+#: core/inc/wapf_settings.php:423
+msgid "WordPress Forum"
+msgstr "WordPress Forum"
+
+#: core/inc/wapf_settings.php:425
+msgid "FAQ"
+msgstr "FAQ"
+
+#: core/inc/wapf_settings.php:425
+msgid "Go to Support Forum"
+msgstr "Zum Supportforum"
+
+#: core/inc/wapf_settings.php:427
+msgid "Contact"
+msgstr "Kontakt"
+
+#: core/inc/wapf_settings.php:427
+msgid "michaelleithold18@gmail.com"
+msgstr "michaelleithold18@gmail.com"
+
+#: core/inc/wapf_settings.php:437
+msgid "Pro Version"
+msgstr "Pro Version"
+
+#: core/inc/wapf_settings.php:443
+msgid "Unlimited Filters"
+msgstr "Unbegrenzte Filter"
+
+#: core/inc/wapf_settings.php:445
+msgid "Customize all Colors"
+msgstr "Alle Farben anpassbar"
+
+#: core/inc/wapf_settings.php:447
+msgid "More Checkbox Designs"
+msgstr "Weitere Checkbox-Designs"
+
+#: core/inc/wapf_settings.php:449
+msgid "More Select Box Designs"
+msgstr "Weitere Select-Box-Designs"
+
+#: core/inc/wapf_settings.php:451
+msgid "More Price Filter Designs"
+msgstr "Weitere Preisfilter-Designs"
+
+#: core/inc/wapf_settings.php:453
+msgid "Premium Updates"
+msgstr "Premium Updates"
+
+#: core/inc/wapf_settings.php:455
+msgid "Premium Support"
+msgstr "Premium Support"
+
+#: core/inc/wapf_settings.php:459
+msgid "for only <b>€19,99,-</b>"
+msgstr "für nur <b>€19,99,-</b>"
+
+#: core/inc/wapf_settings.php:461
+msgid "+ Lifetime Support & Updates"
+msgstr "+ Lebenslanger Support & Updates"
+
+#: core/inc/wapf_settings.php:463
+msgid ""
+"To buy the Pro Version send me an email to michaelleithold18@gmail.com.<br /"
+">You will get all infos."
+msgstr ""
+"Um die Pro-Version zu kaufen, schicken Sie mir eine E-Mail an "
+"michaelleithold18@gmail.com.<br />Sie erhalten alle Informationen."
+
+#: core/inc/wapf_settings.php:465
+msgid "Buy the Pro Version"
+msgstr "Kaufen Sie die Pro-Version"
+
+#: woo-ajax-product-finder.php:381
+msgid "Price"
+msgstr "Preis"
+
+#: woo-ajax-product-finder.php:593 woo-ajax-product-finder.php:720
+msgid "Categorie"
+msgstr "Kategorie"
+
+#: woo-ajax-product-finder.php:846
+msgid ""
+"Woo Ajax Product Filter benötigt WooCommerce. Bitte installieren Sie "
+"WooCommerce."
+msgstr ""
+"Product Filter AJAX for Woo requires WooCommerce. Please install "
+"WooCommerce."
+
+#: woo-ajax-product-finder.php:874
+msgid "The Filter with the ID"
+msgstr "Der Filter mit der ID"
+
+#: woo-ajax-product-finder.php:876
+msgid " was sucessfully deleted!"
+msgstr " wurde erfolgreich gelöscht!"
+
+#: woo-ajax-product-finder.php:880
+msgid "No Filter deleted because no Filter ID!"
+msgstr "Kein Filter gelöscht, weil keine Filter-ID!"
+
+#: woo-ajax-product-finder.php:914
+msgid "Not saved"
+msgstr "Nicht gespeichert"

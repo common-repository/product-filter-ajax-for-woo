@@ -1,0 +1,125 @@
+
+.iscolor {
+    position: relative; width: 90px;
+    -webkit-user-select:none; -moz-user-select:none; -ms-user-select: none;
+	float: left;
+}
+
+.wapf-general input[type="radio"], .wapf-general input[type="checkbox"]{
+	float:left;
+}
+.iscolor-checkbox {
+    position: absolute;
+    opacity: 0;
+    pointer-events: none;
+}
+.iscolor-label {
+    display: block; overflow: hidden; cursor: pointer;
+    border: 2px solid #999999; border-radius: 20px;
+}
+.iscolor-inner {
+    display: block; width: 200%; margin-left: -100%;
+    transition: margin 0.3s ease-in 0s;
+}
+.iscolor-inner:before, .iscolor-inner:after {
+    display: block; float: left; width: 50%; height: 30px; padding: 0; line-height: 30px;
+    font-size: 14px; color: white; font-family: Trebuchet, Arial, sans-serif; font-weight: bold;
+    box-sizing: border-box;
+}
+.iscolor-inner:before {
+    content: "ON";
+    padding-left: 10px;
+    background-color: #34A7C1; color: #FFFFFF;
+}
+.iscolor-inner:after {
+    content: "OFF";
+    padding-right: 10px;
+    background-color: #EEEEEE; color: #999999;
+    text-align: right;
+}
+.iscolor-switch {
+    display: block; width: 18px; margin: 6px;
+    background: #FFFFFF;
+    position: absolute; top: 0; bottom: 0;
+    right: 56px;
+    border: 2px solid #999999; border-radius: 20px;
+    transition: all 0.3s ease-in 0s; 
+}
+.iscolor-checkbox:checked + .iscolor-label .iscolor-inner {
+    margin-left: 0;
+}
+.iscolor-checkbox:checked + .iscolor-label .iscolor-switch {
+    right: 0px; 
+}
+
+
+.wapf-selection .iscolo3r-checkbox {
+background: #626569;
+    border-color: #313335;
+    color: white;
+    border-radius: 3px;	
+}
+
+.wapf100 {
+	float: left;
+	width: 100%;
+}
+
+.wapf-actions {
+	float: left;
+	width: 100%;
+}
+
+.wapf-sidebar-content a,  .wapf-sidebar-content a:hover {
+	color: white;
+}
+
+.wapf-actions a{
+    float: left;
+    margin: 0;
+    padding: 0;
+}
+
+.wapf-actions a .dashicons {
+    font-size: 1rem;
+    line-height: 28px;
+    padding-left: 5px;
+} 
+.wapf-actions .submit {
+    float: left;
+    margin: 0;
+    padding: 0;
+	margin-left: 15px;
+}
+.wapf-price b {
+	    font-size: 1.2rem;
+		
+}
+.supportupdates, .wapf-price {
+	margin:0px;
+}
+.supportupdates {
+    padding-top: 5px;
+}
+
+.wapf-sidebar-content ul li .dashicons {
+    font-size: .9rem;
+    line-height: 18px;	
+}
+.wapf-options select option, .wapf-options select , .wapf-options select:active, .wapf-options select:focus{
+    color: #fff;
+	outline: none;
+}
+
+.wapf-general input[type=checkbox]{
+	margin-top: 1px !important;
+}
+ 
+ .wapf-hide { display: none; }.wapf-small {font-size: .8rem; font-weight: 100;}
+		.wapf-delete-filter .dashicons, .wapf-remove-filter .dashicons {font-size: 1.1rem;}.wapf-remove-filter:hover,.wapf-delete-filter:hover{ color: white;  }.wapf-remove-filter, .wapf-delete-filter {float: right; color: white; text-decoration: none;}
+		.wapf-options {float: left;width: 70%;}.wapf-sidebar-header {background: #0073aa; padding: 10px;} .wapf-sidebar { width: 25%; float: left; margin-left: 40px;color: white;}.wapf-sidebar h2 {color: white;
+    margin: 0;}.wapf-option-row {    margin-bottom: 10px;} .wapf-filter-title {font-weight: 600;
+    font-size: .9rem;
+    background: #0073aa;
+    padding: 10px 10px 10px 10px;}.wapf-sidebar-container {margin-bottom: 20px;background: #32373c;} .wapf-sidebar-content {padding: 10px;} .wapf-filter-content label{     min-width: 100px;
+    float: left;}.wapf-filter-content {    background: #32373c;padding: 10px 10px 10px 10px; } .wapf-selection-select-container select, .wapf-selection-select-container input[type=text] {   min-width: 210px; background: #626569; border-color: #313335; color: white;} .wapf-selection-select-container { margin-bottom: 15px; color: white;}
